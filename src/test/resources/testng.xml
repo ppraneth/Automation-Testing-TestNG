@@ -1,0 +1,11 @@
+<suite name="TestNGAnnotationsSuite">
+    <test name="TestNGAnnotationsTest">
+        <classes>
+            <class name="org.Features.Hooks" />
+            <methods>
+                <include name="testMethod2"/>
+
+            </methods>
+        </classes>
+    </test>
+</suite>
